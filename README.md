@@ -1,4 +1,4 @@
-# First App React Native
+# Learning App React Native
 
 ## Instruções
 
@@ -7,7 +7,7 @@
 
 Clone o projeto:
 ```bash
-git clone https://github.com/YsraelBaruk/first-app-react-native
+git clone https://github.com/YsraelBaruk/learning-react-native
 ```
 
 Entre no diretório:
