@@ -1,4 +1,4 @@
-# Learning App React Native
+# Learning React Native
 
 ## Instruções
 
